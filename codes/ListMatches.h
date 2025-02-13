@@ -4,7 +4,6 @@
 #include <vector>
 #include "Match.h"
 #include "Player.h"
-#ifndef PROJECT_LEAGUE_LISTMATCHES_H
 #define PROJECT_LEAGUE_LISTMATCHES_H
 
 
